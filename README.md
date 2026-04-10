@@ -1,6 +1,10 @@
-Hello! Take a look at some projects I’ve been working on.
+Hi, I’m an early-career software developer focused on full-stack web development.
 
-I worked as a Software Developer Trainee at the consultancy company Pareto, contributing to core features of ParetOS, the company’s internal web platform, as part of a small team under senior developer guidance.
-https://www.paretosoftware.fi/blog/paretos-from-a-need-to-our-own-operating-system?lang=en
+I have experience working with real production systems. During my internship at Pareto Software, I contributed to core features of ParetOS, an internal platform built with Next.js, TypeScript, and Supabase:
+https://www.paretosoftware.fi/fi/posts/paretos-from-a-need-to-our-own-operating-system
 
-I’m currently strengthening my full-stack foundations through a structured learning path on Frontend Masters, focusing on TypeScript, React, Next.js, SQL/PostgreSQL, and modern full-stack workflows. After completing a 6-month internship working with React, Next.js, and Supabase, I’m revisiting these technologies to deepen my understanding, align with best practices, and build production-grade applications independently.
+During my internship at Contrasec Oy, I built practical projects including:
+- MQTT Load Testing Tool — a Python-based tool for performance testing and analyzing message latency
+- Data Analysis Project — combining multiple datasets (bike usage and weather) using PostgreSQL and Apache Superset
+
+Currently, I’m deepening my skills through structured learning and hands-on projects, focusing on TypeScript, React, Next.js, APIs, and data-driven applications.
