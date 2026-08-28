@@ -8,3 +8,5 @@ During my internship at Contrasec Oy, I built practical projects including:
 - Data Analysis Project — combining multiple datasets (bike usage and weather for example) using PostgreSQL, GIS and Apache Superset
 
 Currently, I’m deepening my skills through structured learning and hands-on projects, focusing on TypeScript, React, Next.js, APIs, AI and data-driven applications.
+
+Spotify API data engineering web demo: https://spotify-2025-demo.vercel.app/ylex-2025 
